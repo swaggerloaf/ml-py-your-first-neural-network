@@ -23,7 +23,7 @@ This is a guide to get you up and running. I'm on a mac but windows should be ve
 5. Now execute the enviornment
 <code>source ./venv/bin/activate</code>
 
-6. Open the directory first_nn with visual studio code
+6. Open the directory with visual studio code
 
 7. Select the python virtual env  use the Python: Select Interpreter command from the Command Palette (⇧⌘P)
 <code>https://code.visualstudio.com/docs/python/environments</code>
