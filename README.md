@@ -31,11 +31,12 @@ This is a guide to get you up and running. I'm on a mac but windows should be ve
 9. In the terminal do the following:
 
 <code>pip install --upgrade pip</code>
-<code> pip list
+<pre> pip list
 Package    Version
 ---------- -------
 pip        19.2.1 
 setuptools 41.0.1 
 virtualenv 16.7.2 
 wheel      0.33.4 
-</code>
+</pre>
+
