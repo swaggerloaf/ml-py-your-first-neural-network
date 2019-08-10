@@ -40,3 +40,8 @@ virtualenv 16.7.2
 wheel      0.33.4 
 </pre>
 
+
+Install pytorch since it installs numpy for us and we will be using it eventually. 
+<code>pip3 install torch torchvision</code>
+
+<code>pip list</code>
